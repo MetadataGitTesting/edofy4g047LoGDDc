@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: j2me0bd1.asusgevm@qumun9hi.com
     createdAt: '2024-10-24 20:25:57'
     configurations:
-      pipelineConfigurations/mellie.strosin/King_Shields_VAbbie_BirthdayMaranda_Sawayn/dev:
-        name: dev
-        author: null
-        createdAt: '2024-10-24 20:25:57'
       pipelineConfigurations/mellie.strosin/King_Shields_VAbbie_BirthdayMaranda_Sawayn/dev2:
         name: dev2
-        author: null
-        createdAt: '2024-10-24 20:25:57'
-      pipelineConfigurations/mellie.strosin/King_Shields_VAbbie_BirthdayMaranda_Sawayn/dev3:
-        name: dev3
         author: null
         createdAt: '2024-10-24 20:25:57'
     basePipeline: 323/pipelines/King_Shields_VAbbie_BirthdayMaranda_Sawayn
