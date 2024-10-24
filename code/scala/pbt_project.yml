@@ -1,0 +1,74 @@
+name: song.mitchell
+description: Synchronised
+version: 0.0.1
+author: j2me0bd1.asusgevm@qumun9hi.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: songmitchell
+  parentArtefactID: j2me0bd1asusgevmqumun9hicomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 20:25:56'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 20:25:56'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T20:25:56.646448Z'
+  name: plibMaven
+  version: 8.5.0-SNAPSHOT
+  id: '84863803'
+  createdAt: '2024-10-24T20:25:56.646448Z'
+  type: plibMaven
+projectDependencies:
+  '323':
+    projectUID: 323
+    projectName: mellie.strosin
+    repositoryPath: gitUri=http://gitserver:3000/dev_ZucRYs77_team_565/dev_ZucRYs77_project_323.git&subPath=
+    version: mellie.strosin/0.3.6.739
+    isDefault: false
+    author: null
+    createdAt: '2024-10-24 20:25:56'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations:
+  pipelineConfigurations/mellie.strosin/King_Shields_VAbbie_BirthdayMaranda_Sawayn:
+    author: j2me0bd1.asusgevm@qumun9hi.com
+    createdAt: '2024-10-24 20:25:57'
+    configurations:
+      pipelineConfigurations/mellie.strosin/King_Shields_VAbbie_BirthdayMaranda_Sawayn/dev:
+        name: dev
+        author: null
+        createdAt: '2024-10-24 20:25:57'
+      pipelineConfigurations/mellie.strosin/King_Shields_VAbbie_BirthdayMaranda_Sawayn/dev2:
+        name: dev2
+        author: null
+        createdAt: '2024-10-24 20:25:57'
+      pipelineConfigurations/mellie.strosin/King_Shields_VAbbie_BirthdayMaranda_Sawayn/dev3:
+        name: dev3
+        author: null
+        createdAt: '2024-10-24 20:25:57'
+    basePipeline: 323/pipelines/King_Shields_VAbbie_BirthdayMaranda_Sawayn
